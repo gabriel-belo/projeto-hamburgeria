@@ -1,0 +1,1 @@
+No packjason adicionamos: "dev":  "npx tailwindcss -i ./css/style.css -o ./css/output.css --watch" Para mostrar onde esta o arquivo css
